@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MemoDog: Заметки</string>
+    <string name="hint_title">Введите заголовок</string>
+    <string name="hint_description">Введите описание</string>
+    <string name="delete_note">Заметка была удалена</string>
+    <string name="save_note">Заметка сохранена</string>
+    <string name="not_update_note">Заметка не может быть обновлена</string>
+    <string name="update_note">Заметка обновлена</string>
+    <string name="not_save_note">Заметка не сохранена</string>
+    <string name="remove_all_notes">Все заметки были удалены</string>
+    <string name="edit_title">Редактировать заметку</string>
+    <string name="add_title">Новая заметка</string>
+    <string name="all_fill_in">Все поля должны быть заполнены</string>
+    <string name="date_title">Срок выполнения:</string>
+    <string name="priority_title">Приоритет:</string>
+    <string name="choose_theme_title">Выбор темы</string>
+    <string name="theme_title">MemoDog тема</string>
+    <string name="other_apps_title">Другие приложения</string>
+    <string name="developer_title">Разработчик</string>
+    <string name="author_title">i_alakey</string>
+    <string name="version_app_title">Версия приложения</string>
+    <string name="version_app_info">1.0</string>
+    <string name="settings_header">Настройки</string>
+    <string name="communication">Общение</string>
+    <string name="filter">Фильтр</string>
+    <string name="high_priority">Высокий приоритет</string>
+    <string name="low_priority">Низкий приоритет</string>
+    <string name="high_date">Высокая дата</string>
+    <string name="low_date">Низкая дата</string>
+    <string name="delete_all_notes">Удалить все</string>
+    <string name="settings">Настройки</string>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/filter"
+        android:title="@string/filter"
+        app:showAsAction="never" >
+    <menu>
+    <item
+        android:id="@+id/priority_asc"
+        android:title="@string/high_priority"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/priority_desc"
+        android:title="@string/low_priority"
+        app:showAsAction="never" />
+
+        <item
+            android:id="@+id/date_asc"
+            android:title="@string/high_date"
+            app:showAsAction="never" />
+
+        <item
+            android:id="@+id/date_desc"
+            android:title="@string/low_date"
+            app:showAsAction="never" />
+
+    <item
+        android:id="@+id/delete_all_notes"
+        android:title="@string/delete_all_notes"
+        app:showAsAction="never" />
+    </menu>
+    </item>
+
+    <item
+        android:id="@+id/settings"
+        android:title="@string/settings"
+        app:showAsAction="never" />
+
+</menu>
